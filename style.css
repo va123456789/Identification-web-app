@@ -1,0 +1,33 @@
+body {
+    color: blue;
+    background: black;
+}
+
+.heading {
+    width: 82%;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.name_of_objects {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#camera {
+    width: 300px;
+    height: 300px;
+    border: 2.5px dashed;
+}
+
+#result {
+    width: 300px;
+    height: 300px;
+    border: 2.5px dashed;
+}
+
+#result_object,#result_accuracy{
+    color: chartreuse;
+    font-size: 15px;
+    font-weight: bold;
+}
